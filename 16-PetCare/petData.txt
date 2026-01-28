@@ -1,0 +1,4 @@
+D001|                Diep|                 Red| 25.50|Vong Vang
+D002|                Tuan|                 Bro| 26.30|Vong am
+C001|                Toan|                 Gre|  2.56|Ruy do
+C002|                 Tam|                 Gre|  2.56|Ruy hong
